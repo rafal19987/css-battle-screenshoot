@@ -1,7 +1,10 @@
-# css-battle-screenshoot
+# Nickname rafixxx 
+# Link into CSSBattle profile https://cssbattle.dev/player/rafixxx
 
+# Solution Screenshot
 ![css-battle-screenshot](https://github.com/rafal19987/css-battle-screenshoot/assets/6312438/37445e85-9856-46ec-b62b-6af76d575411)
 
+# My code
 ```html
 <div class="background">
   <div class="green-item"/>
@@ -71,3 +74,5 @@
   }
 </style>
 ```
+
+:) 
